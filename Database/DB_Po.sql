@@ -1,7 +1,3 @@
-CREATE DATABASE db_po;
-
-USE db_po;
-
 CREATE TABLE supplier(
 id_supplier VARCHAR(10) PRIMARY KEY,
 nama_supplier VARCHAR(100)
